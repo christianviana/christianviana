@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @christianviana
 - 👀 I’m interested in Java Development
-- 🌱 I’m currently learning Cloud services
+- 🌱 I’m currently enhancing my Cloud services skills
 - 💞️ I’m looking to collaborate on Java with Cloud Services projects
 - 📫 How to reach me christian.viana@gmail.com
 
